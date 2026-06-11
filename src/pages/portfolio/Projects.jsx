@@ -17,6 +17,14 @@ function Projects() {
             <h3>Car Showroom Website</h3>
             <p><Link to="/mainpage">Click here to check out</Link></p>
           </div>
+          <div className="card">
+            <h3>Endless Runner Game</h3>
+            <p><a href="https://endless-game-two.vercel.app" target="_blank" rel="noopener noreferrer">Click here to check out</a></p>
+          </div>
+          <div className="card">
+            <h3>Gravity flip runner</h3>
+            <p><a href="https://game-fliprunner-o8er.vercel.app" target="_blank" rel="noopener noreferrer">Click here to check out</a></p>
+          </div>
         </div>
       </div>
       <footer className="portfolio-footer">
